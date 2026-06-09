@@ -25,3 +25,15 @@ nav a {
 nav a:hover {
     color: #8a9a86;
 }
+
+/* Step 1: The Hero Container Box */
+
+.hero {
+    background-color: #e3e8e2;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px 20px;
+}
